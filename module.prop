@@ -1,0 +1,6 @@
+id=WCNSS_qcom_fix
+name=WCNSS_qcom_fix
+version=v20210317
+versionCode=20210317
+author=Yoti
+description=Enable Wi-Fi bonding for 2.4 GHz on Redmi Note 8/8T
